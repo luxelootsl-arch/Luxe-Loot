@@ -1,0 +1,8 @@
+{
+  "name": "Digital Boost Pro",
+  "description": "Elevate your business with smart digital solutions, AI-powered tools, and professional services.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
